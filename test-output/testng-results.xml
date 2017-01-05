@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29161" started-at="2017-01-04T16:33:28Z" finished-at="2017-01-04T16:33:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29161" started-at="2017-01-04T16:33:28Z" finished-at="2017-01-04T16:33:57Z">
+      <class name="sauceRun.sauceRun">
+        <test-method status="PASS" signature="run(java.lang.String, java.lang.String, org.openqa.selenium.Platform)[pri:0, instance:sauceRun.sauceRun@7e0babb1]" name="run" duration-ms="29045" started-at="2017-01-04T22:03:28Z" data-provider="dp" finished-at="2017-01-04T22:03:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MicrosoftEdge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[14.14393]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run(java.lang.String, java.lang.String, org.openqa.selenium.Platform)[pri:0, instance:sauceRun.sauceRun@7e0babb1]" name="run" duration-ms="20922" started-at="2017-01-04T22:03:28Z" data-provider="dp" finished-at="2017-01-04T22:03:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[49.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN8_1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="run(java.lang.String, java.lang.String, org.openqa.selenium.Platform)[pri:0, instance:sauceRun.sauceRun@7e0babb1]" name="run" duration-ms="18140" started-at="2017-01-04T22:03:28Z" data-provider="dp" finished-at="2017-01-04T22:03:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[internet explorer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WIN8_1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- sauceRun.sauceRun -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
